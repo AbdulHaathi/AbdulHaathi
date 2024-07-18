@@ -1,4 +1,4 @@
-I'm a Cisco Certified Network Engineer specializing in Network and System Administration. With certifications in CCNP, CCNA, and expertise as a Linux Administrator, I have a strong foundation in designing, implementing, and managing complex network infrastructures.
+I'm a Cisco Certified Network Engineer specializing in Network and System Administration. With certifications in CCNP, CCNA, and expertise as a Linux Administrator, I have a strong foundation in designing, implementing, and managing robust network infrastructures.
 
 Professional Qualifications ----
 1. Cisco Certified Network Professional (CCNP)
